@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    color: #0000FF;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color: #000080;
+    text-align: center;
+}
+
+footer p{
+    background-color: #FFD700;
+}
+
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+
+.q{
+    background-color: white;
+    color: royalblue;
+}
+
+.xyeta{
+    background-color: aqua;
+}
